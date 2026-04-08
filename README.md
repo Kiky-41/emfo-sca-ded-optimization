@@ -1,4 +1,5 @@
 # 🚀 Initial Release – EMFO-SCA for Dynamic Economic Dispatch
+[![DOI](https://zenodo.org/badge/1205001889.svg)](https://doi.org/10.5281/zenodo.19472613)
 
 This release presents the implementation of a hybrid optimization method:
 **Electromagnetic Field Optimization with Sine-Cosine Algorithm (EMFO-SCA)**
